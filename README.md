@@ -7,3 +7,5 @@ The art that has been used in this game was made manually.
 
 # Running the game
 To run the game all files have to be in the same directory for it to run.
+Make sure you have pygame library installed
+```pip install pygame```
